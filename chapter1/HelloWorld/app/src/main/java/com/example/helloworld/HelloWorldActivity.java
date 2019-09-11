@@ -6,7 +6,7 @@ import android.util.Log;
 
 public class HelloWorldActivity extends AppCompatActivity {
 
-    private static final String TAG = "HelloWorldActivity";
+    private static final String TAG = "HelloWorldActivity1";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
